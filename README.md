@@ -8,9 +8,9 @@ The file versions are encoded in a way to convey what the files are about. Use t
 
 ### Core Infinite-time controller(s):
 
-PD: Propoertional derivative
+PD: Proportional derivative
 
-PDg: Propoertional derivative having the gravity compensation option
+PDg: Proportional derivative having the gravity compensation option
 
 JLA: Joint limit avoidance
 
