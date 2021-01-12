@@ -8,13 +8,7 @@ This repository includes the following MATLAB-Simulink files:
 
 1- The prescribed-time control for Euler-Lagrange robotics systems with $n$ degrees-of-freedom (version-PTC.EL.PDg-JLA.FracPol.2020-1): PTC_EL_PDgJLA_FracPol_20201.slx.
 
-2- The prescribed-time control for Euler-Lagrange robotics systems with $n$ degrees-of-freedom (version-PTC.EL.PDg-JLA.FracPol.2020-1) with example of a two-link robot manipulator: PTC_EL_PDgJLA_FracPol_20201_example.slx.
-
-3- The prescribed-time control for normal form chain of integrators with triangular stability (version-PTC.CI.L.Exp.2020-1): PTC_CI_L_Exp_20201.slx
-
-4- The prescribed-time control for normal form chain of integrators with triangular stability (version-PTC.CI.L.Exp.2020-1) with example of a chain of integrators: PTC_CI_L_Exp_20201_example.slx
-
-
+2- The prescribed-time control for normal form chain of integrators with triangular stability (version-PTC.CI.L.Exp.2020-1): PTC_CI_L_Exp_20201.slx
 
 ## Version(s)
 
