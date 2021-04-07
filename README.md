@@ -6,36 +6,9 @@ Prescribed-time control (PTC) blocks in Simulink environment, MATLAB R2020b.
 
 This repository includes the following MATLAB-Simulink files: 
 
-1- The prescribed-time control for Euler-Lagrange robotics systems with $n$ degrees-of-freedom (version-PTC.EL.PDg-JLA.FracPol.2020-1): PTC_EL_PDgJLA_FracPol_20201.slx.
+1- The prescribed-time control for Euler-Lagrange robotic systems with $n$ degrees-of-freedom (version-2020-1): PTC_EL_PDgJLA_FracPol_20201.slx.
 
-2- The prescribed-time control for normal form chain of integrators with triangular stability (version-PTC.CI.L.Exp.2021-1): PTC_CI_L_Exp_20211.slx
-
-## Version(s)
-
-The file versions are encoded in a way to convey what the files are about. Use the following instructions:
-
-
-### Core Infinite-time controller(s):
-
-PD: Proportional derivative
-
-PDg: Proportional derivative having the gravity compensation option
-
-L: linear
-
-JLA: Joint limit avoidance
-
-### System(s):
-
-EL: Euler-Lagrange
-
-CI: Chain of Integrtors
-
-### Mapping function(s):
-
-FracPol: Fraction of polynomials
-
-Exp: Exponential
+2- The prescribed-time control for normal form chain of integrators with triangular stability (version-2021-1): PTC_CI_L_Exp_20211.slx
 
 ## License(s)
 
