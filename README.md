@@ -12,7 +12,7 @@ This repository includes the following MATLAB-Simulink files:
 
 ## References
 
-1- Amir Shakouri, Nima Assadian, "Prescribed-time control with linear decay for nonlinear systems", IEEE Control Systems Letters, 2021, doi: 10.1109/lcsys.2021.3073346.
+1- Amir Shakouri, Nima Assadian, "Prescribed-time control with linear decay for nonlinear systems", IEEE Control Systems Letters, 2021, doi: [10.1109/lcsys.2021.3073346](https://doi.org/10.1109/LCSYS.2021.3073346).
 
 ## License(s)
 
