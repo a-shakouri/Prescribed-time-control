@@ -12,7 +12,9 @@ This repository includes the following MATLAB-Simulink files:
 
 ## References
 
-1- Amir Shakouri, Nima Assadian, "Prescribed-time control with linear decay for nonlinear systems", IEEE Control Systems Letters, 2021, doi: [10.1109/lcsys.2021.3073346](https://doi.org/10.1109/LCSYS.2021.3073346).
+1- Amir Shakouri, Nima Assadian, "Prescribed-time Control for Perturbed Euler-Lagrange Systems with Obstacle Avoidance", IEEE Transactions on Automatic Control, 2021, doi: [10.1109/TAC.2021.3106882](https://doi.org/10.1109/TAC.2021.3106882).
+
+2- Amir Shakouri, Nima Assadian, "Prescribed-time control with linear decay for nonlinear systems", IEEE Control Systems Letters, 2021, doi: [10.1109/lcsys.2021.3073346](https://doi.org/10.1109/LCSYS.2021.3073346).
 
 ## License(s)
 
